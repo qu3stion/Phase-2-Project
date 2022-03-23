@@ -1,6 +1,9 @@
 # Phase 2 Project -- "TV Guy's"
 
-A TV Show API! For television heads by television heads.
+A TV Show API! 
+
+For television heads.
+By television heads.
 
 ## Description
 
@@ -12,7 +15,7 @@ This is a novelty app that helps open up the world of televsion through a simple
 
 ## Functioning API
 
-[TV Show API](https://https://www.tvmaze.com/api)
+[TV Show API](https://www.tvmaze.com/api)
 
 ## MVP
 
