@@ -8,11 +8,11 @@ This is a novelty app that helps open up the world of televsion through a simple
 
 ## Wireframes
 
-My Wireframe(https://www.figma.com/file/RUe2lVgjE8A3L3TC65Aw2X/Powerup-(Copy)?node-id=0%3A1)
+[My Wireframe](https://www.figma.com/file/RUe2lVgjE8A3L3TC65Aw2X/Powerup-(Copy)?node-id=0%3A1)
 
 ## Functioning API
 
-TV Show API(https://https://www.tvmaze.com/api)
+[TV Show API](https://https://www.tvmaze.com/api)
 
 ## MVP
 
