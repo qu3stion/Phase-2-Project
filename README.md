@@ -1,4 +1,4 @@
-# Phase 2 Project -- "TV Guy's"
+# Phase 2 Project -- "TV Guys"
 
 A TV Show API! 
 
@@ -11,11 +11,11 @@ This is a novelty app that helps open up the world of televsion through a simple
 
 ## Wireframes
 
-[My Wireframe](https://www.figma.com/file/RUe2lVgjE8A3L3TC65Aw2X/Powerup-(Copy)?node-id=0%3A1)
+["TV Guys" App Mockup](https://www.figma.com/file/RUe2lVgjE8A3L3TC65Aw2X/Powerup-(Copy)?node-id=0%3A1)
 
 ## Functioning API
 
-[TV Show API](https://www.tvmaze.com/api)
+[Television Show Data Engine](https://www.tvmaze.com/api)
 
 ## MVP
 
