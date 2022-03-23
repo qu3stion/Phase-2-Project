@@ -20,8 +20,8 @@ This is a novelty app that helps open up the world of televsion through a simple
 - at least 6-7 points of data being rendered (at least):
   - premiere/end date, summary, supplementary picture, genre, critical rating, runtime, and etc.
 - a clean interface with complementing colors that is easy and enjoyable to look at
-- 
 
 ### Post-MVP
+
 -make interface cleaner, more engaging 
-  -account 
+  - account creation 
