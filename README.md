@@ -23,5 +23,5 @@ This is a novelty app that helps open up the world of televsion through a simple
 
 ### Post-MVP
 
--make interface cleaner, more engaging 
-  - account creation 
+-- make interface cleaner, more engaging 
+  -- account creation 
