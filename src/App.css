@@ -6,7 +6,7 @@ header{
   position: sticky;
 }
 
-.grid-container{
+.showCard{
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
   grid-gap: 0.25rem;
@@ -59,7 +59,7 @@ img{
   border: 50px #1a3300;
   background-color: #e67300;
   width: fill;
-  
+
 }
 
 .showInfo{
@@ -123,6 +123,15 @@ input[type="submit"]:hover {
   font-size: 30px;
 }
 
+a:link {
+  color: #6b00b3;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #1a3300
+}
+
 #Summary{
   color: #1a3300;
   font-size: 15px;
@@ -131,4 +140,8 @@ input[type="submit"]:hover {
 #Avg{
   color: white;
   font-size: 20px;
+}
+
+#weekDay{
+  color: #6b00b3;
 }

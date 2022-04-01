@@ -34,11 +34,11 @@ console.log(searched);
       Search
       </button>
       </form>
+      <div className="grid-container">
       {(searched || []).map((show, index) => {
-     return (
-        <TheShow show={show.show} key={index}/>
-      )
+        return <TheShow show={show.show} key={index}/>
       })}
+      </div>
     </div>
   )
 }
