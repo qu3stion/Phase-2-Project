@@ -1,0 +1,134 @@
+header{
+  background-color: #1a3300;
+  color: white;
+  text-align: center;
+  overflow: hidden;
+  position: sticky;
+}
+
+.grid-container{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  grid-gap: 0.25rem;
+}
+
+.Links{
+  background-color: #1a3300;
+  color: white;
+  text-align: center;
+  justify-content: space-between;
+  overflow: hidden;
+  position: sticky;
+}
+
+body{
+  background-color: white
+}
+
+img{
+  border: 5 px solid #6b00b3;
+  border-radius: 4px;
+  padding: 5px;
+}
+
+.error {
+  text-align: center;
+  height: 400px;
+  margin: auto;
+  width: 200px;
+}
+
+.error img {
+  max-width: 250px;
+  max-height: 250px;
+}
+
+/* new css for show component */
+
+* {
+  box-sizing: border-box;
+}
+
+.showCard{
+  padding: 10px;
+  margin: 5px;
+  font-size: 10px;
+  color: white;
+  display: grid;
+  /*align-items: center;*/
+  border: 50px #1a3300;
+  background-color: #e67300;
+  width: fill;
+  
+}
+
+.showInfo{
+  flex: 50%;
+}
+
+
+.header h1 {
+  margin: 0;
+}
+
+.show {
+  padding: 5px 25px 10px 25px;
+  max-width: 25%;
+}
+
+.errorMessage {
+  margin: auto;
+  font-weight: bold;
+  color: rgb(161, 15, 15);
+}
+
+
+.searchBar {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.button{
+  background-color: #6b00b3;
+  color: antiquewhite
+}
+
+input[type="submit"] {
+  padding: 5px;
+  background-color: transparent;
+  color: black;
+  border: 1px solid black;
+  width: 80px;
+  margin-left: 5px;
+  cursor: pointer;
+}
+
+
+input[type="submit"]:hover {
+  background-color: #282c34;
+  color: antiquewhite;
+}
+
+
+.search-input > input[type="text"]{
+  width: 40%;
+  min-width: 170px;
+}
+
+#Name{
+  color: #6b00b3;
+  font-size: 30px;
+}
+
+#Summary{
+  color: #1a3300;
+  font-size: 15px;
+}
+
+#Avg{
+  color: white;
+  font-size: 20px;
+}
