@@ -28,7 +28,7 @@ return(
       <h1 id="Genre">Genre: {genres[0]}</h1>
       <h1 id="Avg">Rating: {average}</h1>
       <h1 id="Runtime">{runtime}min Episodes</h1>
-      <h1 id="Summary">{summary}</h1>
+      <h1 id="Summary">Summary: {summary}</h1>
     </div>
   </div>
 )
